@@ -2,7 +2,7 @@
 
 ## Installation
 
-Download and install Mac OS 10.14.4 and Xcode 10.2.1
+Download and install Mac OS 10.14.4 and Xcode 10.2.1  , 
 Download development branch Code from Github.
 
 ## Language
